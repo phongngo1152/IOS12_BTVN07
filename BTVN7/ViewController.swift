@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         tapLabel(label: forgotLabel)
         tapLabel(label: registerLabel)
+        //thu gon code
 
     }
     func tapLabel(label: UILabel){
